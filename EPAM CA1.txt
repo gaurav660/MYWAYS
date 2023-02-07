@@ -1,0 +1,7 @@
+ANSWERS:
+
+1. 
+
+2. find / -name "myfile.txt"
+
+3. 
